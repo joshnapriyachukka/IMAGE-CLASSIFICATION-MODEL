@@ -45,3 +45,5 @@ This GUI made it possible to turn a complex deep learning model into a beginner-
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d3da8c98-d15b-4ef6-bf7d-63f643d85045)
+![Image](https://github.com/user-attachments/assets/d4d090e8-c4d4-4ab6-b862-22cfadaf806a)
